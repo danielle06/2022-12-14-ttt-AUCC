@@ -168,7 +168,7 @@ Before your training, please visit our Preparing for Instructor Training page fo
 
 <h3> Checkout: The Instructor Certification Process</h3>
 At this training event, we will complete all required tasks to become a certified Instructor during the two days of training. These requirements are detailed on our 
-  <a href="{{ site.training_site }}/checkout/">Checkout Instructions</a> page and will be discussed at our training. 
+  <a href="{{ site.training_site }}/checkout/">Checkout Instructions</a> page. 
   
 <h3>What to Bring to an In-Person Event</h3>
 
