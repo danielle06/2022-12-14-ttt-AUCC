@@ -14,9 +14,9 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
 
-  - venue: "Robert W. Woodruff Library" 
-    address: "Classroom 202, 111 James P Brawley Dr SW, Atlanta, GA 30314"
-    latlng: "33.7515371,-84.4157393"
+  - venue: "Russell Center" 
+    address: "504 Fair Street, SW, Atlanta, GA 30313, Symposium Room"
+    latlng: "33.7484719,-84.4065282"
 
 ---
 
